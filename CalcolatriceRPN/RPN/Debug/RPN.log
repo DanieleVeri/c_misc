@@ -1,0 +1,37 @@
+﻿Build started 13/06/2014 17.20.35.
+     1>Project "C:\Users\Daniele\documents\visual studio 2010\Projects\RPN\RPN\RPN.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\RPN.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(147): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(152): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(154): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(156): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(158): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(293): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(312): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(471): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(476): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(481): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(486): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(497): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(538): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(118): warning C4715: 'facto' : not all control paths return a value
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(166): warning C4715: 'Fun' : not all control paths return a value
+     1>c:\users\daniele\documents\visual studio 2010\projects\rpn\rpn\rpn.h(220): warning C4715: 'charfun' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daniele\documents\visual studio 2010\Projects\RPN\Debug\RPN.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\RPN.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Daniele\documents\visual studio 2010\Projects\RPN\Debug\RPN.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daniele\documents\visual studio 2010\Projects\RPN\Debug\RPN.lib" /MACHINE:X86 Debug\main.obj
+         LINK : C:\Users\Daniele\documents\visual studio 2010\Projects\RPN\Debug\RPN.exe not found or not built by the last incremental link; performing full link
+         RPN.vcxproj -> C:\Users\Daniele\documents\visual studio 2010\Projects\RPN\Debug\RPN.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Daniele\documents\visual studio 2010\Projects\RPN\Debug\RPN.exe;#1" /manifest Debug\RPN.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\RPN.unsuccessfulbuild".
+         Touching "Debug\RPN.lastbuildstate".
+     1>Done Building Project "C:\Users\Daniele\documents\visual studio 2010\Projects\RPN\RPN\RPN.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.49

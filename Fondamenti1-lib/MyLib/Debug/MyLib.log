@@ -1,0 +1,26 @@
+﻿Compilazione avviata 14/01/2016 12.06.10.
+     1>Progetto "C:\Users\Daniele\Desktop\MyLib\MyLib\MyLib.vcxproj" sul nodo 2 (destinazioni: Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Array.c Element.c IOConsole.c IOFile.c liste.c main.c Ordinamenti.c
+         Ordinamenti.c
+         main.c
+         liste.c
+         IOFile.c
+         IOConsole.c
+         Element.c
+         Array.c
+         Generazione del codice in corso...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daniele\Desktop\MyLib\Debug\MyLib.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Daniele\Desktop\MyLib\Debug\MyLib.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daniele\Desktop\MyLib\Debug\MyLib.lib" /MACHINE:X86 Debug\Array.obj
+         Debug\Element.obj
+         Debug\IOConsole.obj
+         Debug\IOFile.obj
+         Debug\liste.obj
+         Debug\main.obj
+         Debug\Ordinamenti.obj
+         MyLib.vcxproj -> C:\Users\Daniele\Desktop\MyLib\Debug\MyLib.exe
+     1>Compilazione progetto "C:\Users\Daniele\Desktop\MyLib\MyLib\MyLib.vcxproj" (destinazioni: Rebuild) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:02.03
